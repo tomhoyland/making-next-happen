@@ -1,4 +1,9 @@
 # Making Next Happen
+
+**Downloads**
+1. High-resolution PDF making-next-happen.pdf
+
+
 Ready for Change? About to Start Something New? Wondering how you can get from where you are now, to where you want to be next?
 
 
