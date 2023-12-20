@@ -15,7 +15,9 @@ The canvas encourages a person to:
 3. Surface how a person would like a change to go for them (ideally).
 4. Build an inventory of what a person is currently involved in, creating a backlog of existing commitments and investments to consider.
 5. Use the information revealed to develop a backlog of what needs to change to support a person's transition from where they are to where they'd like to be. This includes:
+
    5.a. Identifying what a person **Needs (Start, Increase, Change)** and **Does Not Need (Stop, Decrease, Change)**, from **Within (themselves)** or from **Others (People and Systems that are external to them)** to move them from where they are to where they would like to be.
+
    5.b. Classifying the changes identified as being related to **Activities** (the work they do and what they invest their time in, surfaced through previous questions), **Behaviours** (how they/others behave, interact, communicate etc. - often internal) or **Capabilities** (systems, processes, structures, money etc. - often external).
 
 
