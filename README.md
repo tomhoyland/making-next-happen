@@ -40,7 +40,7 @@ Download, copy or use the prompts in the canvas to:
 5. Build an inventory of what you are currently involved in, identifying existing commitments and investments for you to consider.
 6. Use the information revealed to develop a backlog of what needs to change to support your transition from where you are to where you'd like to be. This includes:
 
-   6.a. Identify what you **Need (Start, Increase, Change)** and **Do Not Need (Stop, Decrease, Change)**, from **Within (yourself)** or from **Others (People and Systems that are external to you)**.
+   6.a. Identify what you **Need (Start, Increase, Change)** and **Don't Need (Stop, Decrease, Change)**, from **Within (yourself)** or from **Others (People and Systems that are external to you)**.
 
    6.b. Classify the changes identified as being related to **Activities** (how and where time and energy are invested, surfaced through previous questions), **Behaviours** (these are often internal to us e.g. what we pay attention to, how choices are made, biases, ways to interact, habits, reactions and responses etc.) or **Capabilities** (these are often external to us e.g. systems, processes, structures, money, reward systems, tools, etc.).
 
