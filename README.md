@@ -3,6 +3,8 @@
 **Downloads**
 1. High-resolution PDF https://github.com/tomhoyland/making-next-happen/blob/main/making-next-happen.pdf
 
+2. Miro Board Template https://github.com/tomhoyland/making-next-happen/blob/main/making-next-happen-miro.rtb
+
 
 
 **What is it?**
