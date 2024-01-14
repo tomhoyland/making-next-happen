@@ -22,7 +22,7 @@ Anyone who would like to better understand what steps or actions they need to ta
 **When to use it**
 
 1. Before embarking on a change - to surface what a person needs.
-2. Understanding an existing change - to review an existing change taking place to understand challenges and reduce friction. 
+2. Understanding an ongoing change - to assess an existing change, identify challenges and reduce friction.
 
 
 
